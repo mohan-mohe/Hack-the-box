@@ -1,2 +1,2 @@
-# HTB
-A repository which I post my learnings and experiences and notes while solving a machine in hack the box
+#HTB
+notes taken while solving a machine in hack the box
